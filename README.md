@@ -16,7 +16,7 @@ Flight-tested on a real Tello: it connects, flies and responds correctly. Sensor
 - Simulation mode to run the whole stack without a drone
 
 ## Tech
-Kotlin, Jetpack Compose, Android 10+ (API 29), UDP command and video streams. 138 Kotlin files, with written architecture, protocol, hardware-validation and troubleshooting docs.
+Kotlin, Jetpack Compose, Android 10+ (API 29), UDP command and video streams. 139 Kotlin files, with written architecture, protocol, hardware-validation and troubleshooting docs.
 
 ## How it was built
 Idea, requirements and testing by me, with AI-assisted coding.
